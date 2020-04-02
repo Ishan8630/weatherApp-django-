@@ -1,0 +1,9 @@
+.red-color{
+    color: red;
+    font-size: 20px;
+
+}
+
+.red-color:first-letter{
+    font-size: 80px;
+}
